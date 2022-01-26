@@ -3,7 +3,7 @@ j’ai développé avec mes coéquipiers un site de vente de bijoux de Septembre
 
 Du fait que ce site soit de la propriété industrielle, je n'ai pas l'autorisation de divulguer le code source.
 
--Les vidéos suivantes concernent les partis que j'ai développé:
+Les vidéos suivantes concernent les partis que j'ai développé:
 
 
   -AboutUs:
