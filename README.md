@@ -1,0 +1,2 @@
+# Site-de-Bijouterie
+j’ai développé avec mes coéquipiers un site de vente de bijoux de Septembre 2021 à Janvier 2022 pour une start-up s’intitulant « Atelier INME » dans laquelle j’ai participé à la gestion du projet et au développement de la page « Projets » et de la page « About-Us », ainsi que la partie SGBD (MySQL). Ce qui a permis à la start-up de présenter leurs créations et leurs univers vis-à-vis des clients.
